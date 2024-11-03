@@ -48,7 +48,7 @@ git commit -m "Your commit message"
 
 To commit all changes in the current directory (including new files) with a message:
 ```bash
-git commit -am "Your commit message"
+git commit -m "Your commit message"
 ```
 
 You can repeat the staging and committing process as needed:
