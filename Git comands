@@ -1,1 +1,12 @@
-git init
+git --version
+git init                       # for initializing git or writing git to project
+git add filename               # only add file name
+git add .                      # only changed files
+git add *                      # add all the files
+git commit -m "message"       # to commit the changes to the
+git add .                      # (repeated)
+git commit -m "second commit"  # (note: a typo in the original)
+git push                        # (typo in the original)
+git branch -M main
+git remote add origin <url>
+git push -u origin main
